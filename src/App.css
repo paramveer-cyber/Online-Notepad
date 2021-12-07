@@ -1,0 +1,169 @@
+.notes{
+    position: absolute;
+    top: 15%;
+    left: 0;
+    overflow: auto;
+    border: none;
+    outline: none;
+    border-color: transparent;
+    border-top: 1px solid black;
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    color: black;
+    background-image: -webkit-linear-gradient(
+90deg, #d0a090 1px, #d0a090 1px), linear-gradient(#fdf8c8, #fdf8c8 23px, #ccd 23px, #ccd 24px, #fdf8c8 24px);
+    background-image: -moz-linear-linear-gradient(90deg, #d0a090 1px, #d0a090 1px), linear-gradient(#fdf8c8, #fdf8c8 23px, #ccd 23px, #ccd 24px, #fdf8c8 24px);
+    background-image: -ms-linear-gradient(90deg, #d0a090 1px, #d0a090 1px), linear-gradient(#fdf8c8, #fdf8c8 23px, #ccd 23px, #ccd 24px, #fdf8c8 24px);
+    background-image: -o-linear-gradient(90deg, #d0a090 1px, #d0a090 1px), linear-gradient(#fdf8c8, #fdf8c8 23px, #ccd 23px, #ccd 24px, #fdf8c8 24px);
+    background-image: linear-gradient(
+90deg, #d0a090 1px, #d0a090 1px), linear-gradient(#fdf8c8, #fdf8c8 23px, #ccd 23px, #ccd 24px, #fdf8c8 24px);
+    background-size: 2px 100%, 100% 24px;
+    background-position: 40px top, left 0px;
+    background-repeat: no-repeat, repeat;
+    line-height: 24px !important;
+    padding-left: 45px;
+    background-attachment: local;
+}
+
+.inputopen{
+    display: none;
+}
+
+
+
+.abcd{
+    position: absolute;
+    top: 10.5%;
+    left: 3%;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.abcd1{
+    position: absolute;
+    top: 10.5%;
+    left: 5.5%;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.abcd2{
+    position: absolute;
+    top: 10.5%;
+    left: 8%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.abcd3{
+    position: absolute;
+    top: 10.5%;
+    left: 10.5%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.abcd4{
+    position: absolute;
+    top: 10.5%;
+    left: 13%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.abcd5{
+    position: absolute;
+    top: 10.5%;
+    left: 16.5%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.abcd6{
+    position: absolute;
+    top: 10.5%;
+    left: 18.5%;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+.abcd7{
+    position: absolute;
+    top: 10.5%;
+    left: 20.5%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.abcd8{
+    position: absolute;
+    top: 10.25%;
+    left: 23.5%;
+    height: 50px;
+    width: 150px;
+}
+
+.abcd9{
+    position: absolute;
+    top: 9.75%;
+    left: 28.25%;
+    height: 35px;
+    width: 70px;
+    cursor: pointer;
+    border-radius: 12.5%;
+}
+
+.white {
+    width: 100%;
+    color: #f8f9fa;
+    background-color: #f8f9fa;
+    position: absolute;
+    top: 8%;
+    height: 20%;
+}
+
+.alert {
+    display: block;
+    position: absolute;
+    left: 2%;
+    top: 85%;
+    width: 30%;
+}
+
+.hr1{
+    border-left: 2px solid grey;
+    position: absolute;
+    top: 9.5%;
+    left: 15.5%;
+    height: 40px;
+}
+
+.hr2{
+    border-left: 2px solid grey;
+    position: absolute;
+    top: 9.5%;
+    left: 23%;
+    height: 40px;
+}
+
+b {
+    font-weight: bold;
+    font-family: inherit;
+}
+
+.nice{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
